@@ -19,26 +19,26 @@ const EmergencyServices = () => {
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-5xl mx-auto">
-            <div className="bg-black/30 backdrop-blur-sm border border-white/10 p-12 group hover:bg-white/5 transition-all duration-500 text-center">
-              <Clock className="w-12 h-12 text-white/70 mb-6 mx-auto" />
-              <h3 className="text-lg text-white tracking-wide mb-3 font-light">24/7 SERVICE</h3>
-              <p className="text-white/70 text-sm tracking-wide leading-relaxed">
+            <div className="bg-black/80 backdrop-blur-md rounded-2xl shadow-lg p-12 group transition-all duration-500 text-center text-white">
+              <Clock className="w-12 h-12 text-white/80 mb-6 mx-auto" />
+              <h3 className="text-lg tracking-wide mb-3 font-light">24/7 SERVICE</h3>
+              <p className="text-white/80 text-sm tracking-wide leading-relaxed">
                 Available any time, day or night, we're here when you need us most.
               </p>
             </div>
 
-            <div className="bg-black/30 backdrop-blur-sm border border-white/10 p-12 group hover:bg-white/5 transition-all duration-500 text-center">
-              <Phone className="w-12 h-12 text-white/70 mb-6 mx-auto" />
-              <h3 className="text-lg text-white tracking-wide mb-3 font-light">QUICK RESPONSE</h3>
-              <p className="text-white/70 text-sm tracking-wide leading-relaxed">
+            <div className="bg-black/80 backdrop-blur-md rounded-2xl shadow-lg p-12 group transition-all duration-500 text-center text-white">
+              <Phone className="w-12 h-12 text-white/80 mb-6 mx-auto" />
+              <h3 className="text-lg tracking-wide mb-3 font-light">QUICK RESPONSE</h3>
+              <p className="text-white/80 text-sm tracking-wide leading-relaxed">
                 Fast arrival to your location within the hour.
               </p>
             </div>
 
-            <div className="bg-black/30 backdrop-blur-sm border border-white/10 p-12 group hover:bg-white/5 transition-all duration-500 text-center">
-              <ShieldCheck className="w-12 h-12 text-white/70 mb-6 mx-auto" />
-              <h3 className="text-lg text-white tracking-wide mb-3 font-light">LICENSED & INSURED</h3>
-              <p className="text-white/70 text-sm tracking-wide leading-relaxed">
+            <div className="bg-black/80 backdrop-blur-md rounded-2xl shadow-lg p-12 group transition-all duration-500 text-center text-white">
+              <ShieldCheck className="w-12 h-12 text-white/80 mb-6 mx-auto" />
+              <h3 className="text-lg tracking-wide mb-3 font-light">LICENSED & INSURED</h3>
+              <p className="text-white/80 text-sm tracking-wide leading-relaxed">
                 Professional, trusted service you can rely on.
               </p>
             </div>
